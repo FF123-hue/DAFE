@@ -20,7 +20,6 @@ https://github.com/lightas/Occluded-DukeMTMC-Dataset
 
 https://drive.google.com/file/d/0B8-rUzbwVRk0c054eEozWG9COHM/view?resourcekey=0-8nyl7K9_x37HlQm34MmrYQ
 
-Then unzip them and rename them under the directory like
 
 # Prepare ViT Pre-trained Models
 You need to download the ImageNet pretrained transformer model : 
