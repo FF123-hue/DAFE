@@ -22,6 +22,13 @@ https://drive.google.com/file/d/0B8-rUzbwVRk0c054eEozWG9COHM/view?resourcekey=0-
 
 Then unzip them and rename them under the directory like
 
+# Prepare ViT Pre-trained Models
+You need to download the ImageNet pretrained transformer model : 
+
+#ViT-Base
+
+https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-vitjx/jx_vit_base_p16_224-80ecf9dd.pth
+
 # Training on Occluded-Duke
 python train.py --config_file configs/OCC_Duke/vit_transreid_stride.yml 
 
